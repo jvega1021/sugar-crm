@@ -1,0 +1,51 @@
+Mon Sep 25 08:48:24 2017 [26464][-none-][FATAL] Could not connect to DB server localhost as admin. port : No such file or directory
+Mon Sep 25 08:48:24 2017 [26464][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Mon Sep 25 08:48:24 2017 [26464][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Mon Sep 25 08:48:24 2017 [26464][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Mon Sep 25 08:48:24 2017 [26464][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Mon Sep 25 08:48:24 2017 [26464][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+Mon Sep 25 09:29:56 2017 [26745][-none-][FATAL] Could not connect to DB server localhost as root. port : No such file or directory
+Mon Sep 25 09:29:56 2017 [26745][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Mon Sep 25 09:29:56 2017 [26745][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Mon Sep 25 09:29:56 2017 [26745][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Mon Sep 25 09:29:56 2017 [26745][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Mon Sep 25 09:29:56 2017 [26745][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+Mon Sep 25 11:01:17 2017 [18001][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:01:17 2017 [18001][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:01:32 2017 [18225][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:01:46 2017 [17989][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:01:55 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:01:56 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:01:58 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:02:01 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:02:02 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:02:03 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:02:05 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:02:05 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:02:06 2017 [17991][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'sugarcrm'
+Mon Sep 25 11:29:58 2017 [20104][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Sep 25 11:29:58 2017 [20104][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 11:30:28 2017 [20103][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Sep 25 11:30:28 2017 [20103][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 11:31:11 2017 [17989][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Sep 25 11:31:11 2017 [17989][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 11:32:12 2017 [20101][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Sep 25 11:32:12 2017 [20101][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 11:33:49 2017 [18225][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Sep 25 11:33:49 2017 [18225][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 11:35:16 2017 [21634][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Sep 25 11:35:16 2017 [21634][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 11:35:35 2017 [17991][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Sep 25 11:35:35 2017 [17991][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 13:44:08 2017 [17989][-none-][FATAL] SECURITY: User authentication for jvega.adc@gmail.com failed
+Mon Sep 25 13:44:08 2017 [17989][-none-][FATAL] FAILED LOGIN:attempts[1] - jvega.adc@gmail.com
+Mon Sep 25 13:44:16 2017 [17993][-none-][FATAL] SECURITY: User authentication for jvega.adc@gmail.com failed
+Mon Sep 25 13:44:16 2017 [17993][-none-][FATAL] FAILED LOGIN:attempts[2] - jvega.adc@gmail.com
+Mon Sep 25 13:44:21 2017 [17993][-none-][FATAL] SECURITY: User authentication for jvega.adc@gmail.com failed
+Mon Sep 25 13:44:21 2017 [17993][-none-][FATAL] FAILED LOGIN:attempts[3] - jvega.adc@gmail.com
+Mon Sep 25 13:44:25 2017 [17993][-none-][FATAL] SECURITY: User authentication for jvega.adc@gmail.com failed
+Mon Sep 25 13:44:25 2017 [17993][-none-][FATAL] FAILED LOGIN:attempts[4] - jvega.adc@gmail.com
+Mon Sep 25 14:03:01 2017 [23595][1][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Mon Sep 25 14:03:01 2017 [23595][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Sep 25 14:05:21 2017 [17991][1][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Mon Sep 25 14:05:21 2017 [17991][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
